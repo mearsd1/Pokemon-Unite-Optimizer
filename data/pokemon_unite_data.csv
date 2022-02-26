@@ -1,33 +1,33 @@
-Pokemon,Role,HP,Attack,Defense,Sp. Atk,Sp. Defense,Speed
-Absol,Speedster,6000,620,259,118,180,3650
-Aegislash Sword Form,All-Rounder,7302,457,250,0,174,100
-Aegislash Shield Form,All-Rounder,7302,357,450,0,314,
-Alolan Ninetales,Attacker,6299,289,175,1002,135,
-Blastoise,Defender,9800,293,599,412,420,
-Blissey,Supporter,10000,310,200,600,300,3700
-Charizard,All-Rounder,7700,463,350,114,269,
-Cinderace,Attacker,5400,418,250,119,149,
-Cramorant,Attacker,6301,286,300,739,200,
-Crustle,Defender,9900,344,580,116,400,
-Decidueye,Attacker,5152,450,250,20,150,3600
-Dragonite,All-Rounder,7750,495,415,115,316,
-Eldegoss,Supporter,8002,310,200,670,149,
-Garchomp,All-Rounder,7750,496,472,114,367,
-Gardevoir,Attacker,6320,291,174,1001,138,
-Gengar,Speedster,7200,364,260,669,189,
-Greedent,Defender,9099,345,433,117,360,
-Greninja,Attacker,5152,460,250,119,149,
-Lucario,All-Rounder,7249,440,390,116,300,
-Machamp,All-Rounder,7650,479,490,114,320,
-Mamoswine,Defender,9648,325,510,116,379,
-Mr. Mime,Supporter,9402,293,420,414,361,
-Pikachu,Attacker,6300,290,175,954,135,
-Slowbro,Defender,9400,292,421,411,360,
-Snorlax,Defender,9899,345,580,116,400,3650
-Sylveon,Attacker,7148,363,260,679,191,
-Talonflame,Speedster,6300,681,290,117,200,3650
-Trevenant,Defender,9599,330,520,117,421,
-Tsareena,All-Rounder,7298,440,400,115,323,
-Venusaur,Attacker,6321,293,174,962,137,
-Wigglytuff,Supporter,9452,310,539,552,482,
-Zeraora,Speedster,6319,649,300,118,200,3650
+Pokemon,Role,HP,Attack,Defense,Sp. Atk,Sp. Defense
+Absol,Speedster,6000,620,259,117,180
+Aegislash Sword Form,All-Rounder,7302,457,250,0,174
+Aegislash Shield Form,All-Rounder,7302,357,450,0,314
+Alolan Ninetales,Attacker,6299,289,175,1002,135
+Blastoise,Defender,9800,293,599,412,420
+Blissey,Supporter,10000,310,200,600,300
+Charizard,All-Rounder,7700,463,350,114,269
+Cinderace,Attacker,5400,418,250,119,149
+Cramorant,Attacker,6301,286,300,739,200
+Crustle,Defender,9900,344,580,116,400
+Decidueye,Attacker,5152,450,250,20,150
+Dragonite,All-Rounder,7750,495,415,115,316
+Eldegoss,Supporter,8002,310,200,670,149
+Garchomp,All-Rounder,7750,496,472,114,367
+Gardevoir,Attacker,6320,291,174,1001,138
+Gengar,Speedster,7200,364,260,669,189
+Greedent,Defender,9099,345,433,117,360
+Greninja,Attacker,5152,460,250,119,149
+Lucario,All-Rounder,7249,440,390,116,300
+Machamp,All-Rounder,7650,479,490,114,320
+Mamoswine,Defender,9648,325,510,116,379
+Mr. Mime,Supporter,9402,293,420,414,361
+Pikachu,Attacker,6300,290,175,954,135
+Slowbro,Defender,9400,292,421,411,360
+Snorlax,Defender,9899,345,580,116,400
+Sylveon,Attacker,7148,363,260,679,191
+Talonflame,Speedster,6300,681,290,117,200
+Trevenant,Defender,9599,330,520,117,421
+Tsareena,All-Rounder,7298,440,400,115,323
+Venusaur,Attacker,6321,293,174,962,137
+Wigglytuff,Supporter,9452,310,539,552,482
+Zeraora,Speedster,6319,649,300,118,200
